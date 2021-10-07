@@ -1,4 +1,4 @@
-## <a href="https://disney-clone-d1e27.firebaseapp.com/" target="_blank">DEPLOYED LIVE LINK</a>
+## <a href="https://disney-clone-d1e27.firebaseapp.com/" target="_blank">DEPLOYED LIVE DEMO LINK</a>
 
 
 
